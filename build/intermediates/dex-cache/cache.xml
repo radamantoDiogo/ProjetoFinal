@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\73065302b0cc743f4802bf9ebaf2636bece31683\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_8c6cc63e5d93d130760146e6461f599ebc5bfb84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\1559ece4c198fbf91b996634ffc586c204364a6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_2b017869d532553bbdd1fb9a4694412d2a8b3482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\15df68eb957b714ea6f392e980cb9b6c9a4397e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_030d32007eb5f638ee5377b03d2e8ecd9d538c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\72ebde0960a0ea471bbb0062280a61027571eb57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_7403dff42ebfcc35e444aef27d691a65740974cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\00f4fac41660b3a4cf3073978bf69770cc9f740d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_3c1d9588ef10c02d5bcd6415d0e3704284172c90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\8eb1c4ab6a6d41652213fc89e0c61efec47ba3e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_74450c5d8a0a58bce5b8a0a10e250a3b045b3e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\7af1653ac9aa9d29901b01df41e0346c3b723af3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_b5655c40e781848bce30317dd7a70116f7054361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Acer Aspire\.android\build-cache\e8fc7919d5f1e5eebc521e9052cd72df8e132a03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Acer Aspire\AndroidStudioProjects\SpikeBD\app\build\intermediates\pre-dexed\debug\classes_b229dee4fdeb6d6993724490e767c2f05c143805.jar" />
+    </item>
+
+</items>
